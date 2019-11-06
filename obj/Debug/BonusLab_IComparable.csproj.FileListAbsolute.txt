@@ -1,0 +1,7 @@
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\bin\Debug\BonusLab_IComparable.exe.config
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\bin\Debug\BonusLab_IComparable.exe
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\bin\Debug\BonusLab_IComparable.pdb
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\obj\Debug\BonusLab_IComparable.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\obj\Debug\BonusLab_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\obj\Debug\BonusLab_IComparable.exe
+C:\Users\Remus Iftimie\Engineering45\week3\Day2\BonusLab_IComparable\obj\Debug\BonusLab_IComparable.pdb
